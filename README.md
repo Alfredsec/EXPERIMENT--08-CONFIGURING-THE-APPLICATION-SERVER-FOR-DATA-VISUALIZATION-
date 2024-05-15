@@ -1,3 +1,12 @@
+### DATE: 8/5/2024
+
+### NAME: ALFRED A.B.
+
+### REGISTER NO: 212222110002
+
+### DEPARTMENT: CSE(IOT)
+
+
 # EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-
  
 ## Aim: To  configure  the Application server and visualize the data on the dashboard 
@@ -29,9 +38,10 @@ As the application server market matures, high performance becomes a stronger cr
 
 ## OUTPUT 
  
-![image](https://github.com/vasanthkumarch/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/36288975/8ead363c-7b62-42de-8918-2493fdf96696)
+![WhatsApp Image 2024-05-08 at 09 30 41_9b41d15a png](https://github.com/Alfredsec/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/120621608/e1649e2a-ba6d-4008-b8c5-37b70d89c7eb)
 
 
+![WhatsApp Image 2024-05-08 at 09 31 23_ee99e636](https://github.com/Alfredsec/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/120621608/d049ebf9-ddee-4402-a3e9-774d66d927ca)
 
 ## Results: 
 
